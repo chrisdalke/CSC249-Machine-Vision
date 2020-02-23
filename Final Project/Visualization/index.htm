@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CSC 249 Data Visualization</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.2.2/d3.v3.min.js"></script>
+    <script type="text/javascript" src="js/uvcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="//rawgithub.com/phpepe/highcharts-regression/master/highcharts-regression.js">
+    </script>
+</head>
+
+<body>
+    <div class="section has-margin">
+        <div class="section-header">Information</div>
+
+        <h2>CSC 249 Final Project - Data Visualization Tool</h2>
+        <h4>Chris Dalke &amp; Nate Conroy</h4>
+    </div>
+    <div class="section-left">
+        <div class="section">
+            <div class="section-header">Image Navigation</div>
+            Num Images: <span id="num-images-label">0</span></br> Current Image: <span id="cur-images-label">0</span>
+            <a id="next-image-btn" href="#">Next Photo</a>
+            <a id="prev-image-btn" href="#">Previous Photo</a>
+            <a id="next-face-image-btn" href="#">Next Photo With Face</a>
+        </div>
+        <div class="section">
+            <div class="section-header">Image Metadata</div>
+            <span id="image-metadata-section" style="display: block;"></span>
+            <span id="image-emotion-table"></div>
+    </div>
+    <div class="section-right has-margin">
+        <div class="section">
+            <div class="section-header">Image Viewer</div>
+            <canvas id="imageCanvas" width="640" height="480"></canvas>
+            <img id="preview-image"></img>
+            <div id="debug"></div>
+        </div>
+    </div>
+
+    <div class="section-right has-margin">
+        <div class="section">
+            <div class="section-header">Location Metadata</div>
+            Num Locations: <span id="num-cities-label">0</span></br>
+            Num Locations with Emotion Data: <span id="num-cities-emotion-label">0</span></br>
+            <hr/>
+            <div class="tab-button" id="tab-1-btn">Location Emotions</div>
+            <div class="tab-button" id="tab-2-btn">Location Weather Conditions</div>
+            <div class="tab-button" id="tab-3-btn">Custom Chart</div>
+            <div class="tab" id="tab-1">
+                <div id="location-emotion-chart"></div>
+            </div>
+            <div class="tab" id="tab-2">
+                <div id="location-weather-chart"></div>
+            </div>
+            <div class="tab" id="tab-3">
+                <b>Emotion Value:</b>
+                <select name="x-axis" id="emotion-select">
+                    <option value="anger">anger</option>
+                    <option value="contempt">contempt</option>
+                    <option value="disgust">disgust</option>
+                    <option value="fear">fear</option>
+                    <option value="sadness">sadness</option>
+                    <option value="surprise">surprise</option>
+                    <option value="neutral">neutral</option>
+                    <option value="happiness">happiness</option>
+                </select><br/>
+                <b>Weather Value:</b>
+                <select name="y-axis" id="weather-select">
+                    <option value="averageTempHigh">averageTempHigh</option>
+                    <option value="averageTempMid">averageTempMid</option>
+                    <option value="averageTempLow">averageTempLow</option>
+                    <option value="rainfall">rainfall</option>
+                    <option value="snowfall">snowfall</option>
+                    <option value="daysRain">daysRain</option>
+                    <option value="hoursSunshine">hoursSunshine</option>
+                </select>
+                <button id="custom-update">Update</button>
+                <div id="location-custom-chart"></div>
+                <div id="location-custom-chart-regression"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+    <script src="city-metadata.js"></script>
+</body>
+
+</html>

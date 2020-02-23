@@ -1,0 +1,1201 @@
+[ {
+  "cityName" : "New York",
+  "stateName" : "NY",
+  "latitude" : 40.6643,
+  "longitude" : -73.9385,
+  "emotions" : {
+    "contempt" : 0.010611331,
+    "surprise" : 0.019001722,
+    "happiness" : 0.4664185,
+    "neutral" : 0.43981832,
+    "sadness" : 0.031300627,
+    "disgust" : 0.011394971,
+    "anger" : 0.018443039,
+    "fear" : 0.003011391
+  },
+  "weather" : {
+    "hoursSunshine" : 2677.0,
+    "rainfall" : 46.23,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 62.3,
+    "averageTempLow" : 48.0,
+    "daysRain" : 121.0,
+    "averageTempMid" : 55.15
+  }
+}, {
+  "cityName" : "Los Angeles",
+  "stateName" : "CA",
+  "latitude" : 34.0194,
+  "longitude" : -118.4108,
+  "emotions" : {
+    "contempt" : 0.006268992,
+    "surprise" : 0.031585548,
+    "happiness" : 0.34509215,
+    "neutral" : 0.5737906,
+    "sadness" : 0.017443975,
+    "disgust" : 0.005798042,
+    "anger" : 0.018700965,
+    "fear" : 0.0013198064
+  },
+  "weather" : {
+    "hoursSunshine" : 3348.0,
+    "rainfall" : 18.67,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 71.7,
+    "averageTempLow" : 55.9,
+    "daysRain" : -1.0,
+    "averageTempMid" : 63.8
+  }
+}, {
+  "cityName" : "Chicago",
+  "stateName" : "IL",
+  "latitude" : 41.8376,
+  "longitude" : -87.6818,
+  "emotions" : {
+    "contempt" : 0.007441377,
+    "surprise" : 0.019904548,
+    "happiness" : 0.3363947,
+    "neutral" : 0.5393104,
+    "sadness" : 0.04942934,
+    "disgust" : 0.011485403,
+    "anger" : 0.033097636,
+    "fear" : 0.002936562
+  },
+  "weather" : {
+    "hoursSunshine" : 2504.0,
+    "rainfall" : 39.04,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 59.3,
+    "averageTempLow" : 43.3,
+    "daysRain" : 119.0,
+    "averageTempMid" : 51.3
+  }
+}, {
+  "cityName" : "Houston",
+  "stateName" : "TX",
+  "latitude" : 29.7805,
+  "longitude" : -95.3863,
+  "emotions" : {
+    "contempt" : 0.0034356927,
+    "surprise" : 0.008409003,
+    "happiness" : 0.60013413,
+    "neutral" : 0.3332021,
+    "sadness" : 0.02755166,
+    "disgust" : 0.016980391,
+    "anger" : 0.007479402,
+    "fear" : 0.0028076041
+  },
+  "weather" : {
+    "hoursSunshine" : 2633.0,
+    "rainfall" : 45.28,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 78.3,
+    "averageTempLow" : 59.8,
+    "daysRain" : 106.0,
+    "averageTempMid" : 69.05
+  }
+}, {
+  "cityName" : "Philadelphia",
+  "stateName" : "PA",
+  "latitude" : 40.0094,
+  "longitude" : -75.1333,
+  "emotions" : {
+    "contempt" : 0.0141196,
+    "surprise" : 0.029077977,
+    "happiness" : 0.3137318,
+    "neutral" : 0.56820434,
+    "sadness" : 0.044764355,
+    "disgust" : 0.011015391,
+    "anger" : 0.015413228,
+    "fear" : 0.0036733192
+  },
+  "weather" : {
+    "hoursSunshine" : 2613.0,
+    "rainfall" : 41.45,
+    "snowfall" : 23.0,
+    "averageTempHigh" : 64.7,
+    "averageTempLow" : 47.0,
+    "daysRain" : -1.0,
+    "averageTempMid" : 55.85
+  }
+}, {
+  "cityName" : "Phoenix",
+  "stateName" : "AZ",
+  "latitude" : 33.5722,
+  "longitude" : -112.088,
+  "emotions" : {
+    "contempt" : 0.01486596,
+    "surprise" : 0.016635867,
+    "happiness" : 0.3401826,
+    "neutral" : 0.5926705,
+    "sadness" : 0.014521545,
+    "disgust" : 0.0017486683,
+    "anger" : 0.017717894,
+    "fear" : 0.001657031
+  },
+  "weather" : {
+    "hoursSunshine" : 3832.0,
+    "rainfall" : 8.04,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 86.7,
+    "averageTempLow" : 63.4,
+    "daysRain" : 36.0,
+    "averageTempMid" : 75.05
+  }
+}, {
+  "cityName" : "San Antonio",
+  "stateName" : "TX",
+  "latitude" : 29.4724,
+  "longitude" : -98.5251,
+  "emotions" : {
+    "contempt" : 0.011487624,
+    "surprise" : 0.013369749,
+    "happiness" : 0.3741049,
+    "neutral" : 0.5815258,
+    "sadness" : 0.010167684,
+    "disgust" : 0.00223891,
+    "anger" : 0.0061231647,
+    "fear" : 9.821184E-4
+  },
+  "weather" : {
+    "hoursSunshine" : 2877.0,
+    "rainfall" : 32.91,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 79.8,
+    "averageTempLow" : 57.6,
+    "daysRain" : -1.0,
+    "averageTempMid" : 68.7
+  }
+}, {
+  "cityName" : "San Diego",
+  "stateName" : "CA",
+  "latitude" : 32.8153,
+  "longitude" : -117.135,
+  "emotions" : {
+    "contempt" : 0.009261879,
+    "surprise" : 0.029873386,
+    "happiness" : 0.38010064,
+    "neutral" : 0.49411163,
+    "sadness" : 0.041630477,
+    "disgust" : 0.010036064,
+    "anger" : 0.024428144,
+    "fear" : 0.010557691
+  },
+  "weather" : {
+    "hoursSunshine" : 2958.0,
+    "rainfall" : 10.4,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 69.8,
+    "averageTempLow" : 57.5,
+    "daysRain" : 43.0,
+    "averageTempMid" : 63.65
+  }
+}, {
+  "cityName" : "Dallas",
+  "stateName" : "TX",
+  "latitude" : 32.7757,
+  "longitude" : -96.7967,
+  "emotions" : {
+    "contempt" : 0.01063157,
+    "surprise" : 0.03646274,
+    "happiness" : 0.31275594,
+    "neutral" : 0.58538276,
+    "sadness" : 0.031980246,
+    "disgust" : 0.002879986,
+    "anger" : 0.014746229,
+    "fear" : 0.005160491
+  },
+  "weather" : {
+    "hoursSunshine" : 2910.0,
+    "rainfall" : 40.97,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 77.1,
+    "averageTempLow" : 51.5,
+    "daysRain" : -1.0,
+    "averageTempMid" : 64.3
+  }
+}, {
+  "cityName" : "San Jose",
+  "stateName" : "CA",
+  "latitude" : 37.2969,
+  "longitude" : -121.8193,
+  "emotions" : {
+    "contempt" : 0.0061409855,
+    "surprise" : 0.012086343,
+    "happiness" : 0.4158892,
+    "neutral" : 0.5099839,
+    "sadness" : 0.04496208,
+    "disgust" : 0.0028984735,
+    "anger" : 0.006271854,
+    "fear" : 0.001767233
+  },
+  "weather" : {
+    "hoursSunshine" : 3708.0,
+    "rainfall" : 15.09,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 72.6,
+    "averageTempLow" : 50.5,
+    "daysRain" : -1.0,
+    "averageTempMid" : 61.55
+  }
+}, {
+  "cityName" : "Austin",
+  "stateName" : "TX",
+  "latitude" : 30.3072,
+  "longitude" : -97.756,
+  "emotions" : {
+    "contempt" : 0.007724962,
+    "surprise" : 0.025745548,
+    "happiness" : 0.48891264,
+    "neutral" : 0.40736973,
+    "sadness" : 0.03721168,
+    "disgust" : 0.0057515097,
+    "anger" : 0.021675715,
+    "fear" : 0.0056081982
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 34.25,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 79.8,
+    "averageTempLow" : 59.0,
+    "daysRain" : -1.0,
+    "averageTempMid" : 69.4
+  }
+}, {
+  "cityName" : "Jacksonville",
+  "stateName" : "FL",
+  "latitude" : 30.337,
+  "longitude" : -81.6613,
+  "emotions" : {
+    "contempt" : 0.002776197,
+    "surprise" : 0.043457884,
+    "happiness" : 0.55093914,
+    "neutral" : 0.37694183,
+    "sadness" : 0.009825222,
+    "disgust" : 0.002723764,
+    "anger" : 0.009924828,
+    "fear" : 0.0034111943
+  },
+  "weather" : {
+    "hoursSunshine" : 2640.0,
+    "rainfall" : -1.0,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 79.9,
+    "averageTempLow" : 55.9,
+    "daysRain" : -1.0,
+    "averageTempMid" : 67.9
+  }
+}, {
+  "cityName" : "San Francisco",
+  "stateName" : "CA",
+  "latitude" : 37.7751,
+  "longitude" : -122.4193,
+  "emotions" : {
+    "contempt" : 0.007933376,
+    "surprise" : 0.030441446,
+    "happiness" : 0.35347912,
+    "neutral" : 0.55110127,
+    "sadness" : 0.036511432,
+    "disgust" : 0.0029316025,
+    "anger" : 0.012624961,
+    "fear" : 0.0049767983
+  },
+  "weather" : {
+    "hoursSunshine" : 2950.0,
+    "rainfall" : 23.64,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 63.8,
+    "averageTempLow" : 50.8,
+    "daysRain" : 68.0,
+    "averageTempMid" : 57.3
+  }
+}, {
+  "cityName" : "Indianapolis",
+  "stateName" : "IN",
+  "latitude" : 39.7767,
+  "longitude" : -86.1459,
+  "emotions" : {
+    "contempt" : 0.0071402094,
+    "surprise" : 0.056724813,
+    "happiness" : 0.43522525,
+    "neutral" : 0.423757,
+    "sadness" : 0.034199085,
+    "disgust" : 0.009478644,
+    "anger" : 0.02902352,
+    "fear" : 0.004451477
+  },
+  "weather" : {
+    "hoursSunshine" : 2439.0,
+    "rainfall" : 52.2,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 62.4,
+    "averageTempLow" : 43.8,
+    "daysRain" : 125.0,
+    "averageTempMid" : 53.1
+  }
+}, {
+  "cityName" : "Columbus",
+  "stateName" : "OH",
+  "latitude" : 39.9848,
+  "longitude" : -82.985,
+  "emotions" : {
+    "contempt" : 0.0071263076,
+    "surprise" : 0.013289042,
+    "happiness" : 0.39762616,
+    "neutral" : 0.53402257,
+    "sadness" : 0.024943566,
+    "disgust" : 0.005624576,
+    "anger" : 0.015842568,
+    "fear" : 0.0015251423
+  },
+  "weather" : {
+    "hoursSunshine" : 2507.0,
+    "rainfall" : 56.11,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 62.5,
+    "averageTempLow" : 43.3,
+    "daysRain" : 133.0,
+    "averageTempMid" : 52.9
+  }
+}, {
+  "cityName" : "Fort Worth",
+  "stateName" : "TX",
+  "latitude" : 32.7795,
+  "longitude" : -97.3463,
+  "emotions" : {
+    "contempt" : 0.0052974196,
+    "surprise" : 0.0063701607,
+    "happiness" : 0.7069261,
+    "neutral" : 0.26647893,
+    "sadness" : 0.010231939,
+    "disgust" : 0.0016497892,
+    "anger" : 0.002087614,
+    "fear" : 9.580456E-4
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : -1.0,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 76.7,
+    "averageTempLow" : 53.8,
+    "daysRain" : -1.0,
+    "averageTempMid" : 65.25
+  }
+}, {
+  "cityName" : "Charlotte",
+  "stateName" : "NC",
+  "latitude" : 35.2087,
+  "longitude" : -80.8307,
+  "emotions" : {
+    "contempt" : 0.0072044204,
+    "surprise" : 0.10547199,
+    "happiness" : 0.26600638,
+    "neutral" : 0.4597506,
+    "sadness" : 0.07219967,
+    "disgust" : 0.016847497,
+    "anger" : 0.06320705,
+    "fear" : 0.009312317
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 41.63,
+    "snowfall" : 4.0,
+    "averageTempHigh" : 70.8,
+    "averageTempLow" : 48.8,
+    "daysRain" : -1.0,
+    "averageTempMid" : 59.8
+  }
+}, {
+  "cityName" : "Seattle",
+  "stateName" : "WA",
+  "latitude" : 47.6205,
+  "longitude" : -122.3509,
+  "emotions" : {
+    "contempt" : 0.0068720644,
+    "surprise" : 0.027422724,
+    "happiness" : 0.28775743,
+    "neutral" : 0.53018326,
+    "sadness" : 0.08165342,
+    "disgust" : 0.015420751,
+    "anger" : 0.048013896,
+    "fear" : 0.002676436
+  },
+  "weather" : {
+    "hoursSunshine" : 2163.0,
+    "rainfall" : 37.13,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 60.3,
+    "averageTempLow" : 45.0,
+    "daysRain" : 147.0,
+    "averageTempMid" : 52.64
+  }
+}, {
+  "cityName" : "Denver",
+  "stateName" : "CO",
+  "latitude" : 39.7618,
+  "longitude" : -104.8806,
+  "emotions" : {
+    "contempt" : 0.0064586005,
+    "surprise" : 0.033555485,
+    "happiness" : 0.47949508,
+    "neutral" : 0.4545188,
+    "sadness" : 0.013631749,
+    "disgust" : 0.0037284836,
+    "anger" : 0.007725952,
+    "fear" : 8.8590995E-4
+  },
+  "weather" : {
+    "hoursSunshine" : 3115.0,
+    "rainfall" : 14.16,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 65.0,
+    "averageTempLow" : 36.4,
+    "daysRain" : -1.0,
+    "averageTempMid" : 50.7
+  }
+}, {
+  "cityName" : "El Paso",
+  "stateName" : "TX",
+  "latitude" : 31.8484,
+  "longitude" : -106.427,
+  "emotions" : {
+    "contempt" : 0.003110635,
+    "surprise" : 0.035518855,
+    "happiness" : 0.6663415,
+    "neutral" : 0.26473075,
+    "sadness" : 0.016884508,
+    "disgust" : 0.0029692343,
+    "anger" : 0.0052365777,
+    "fear" : 0.0052079405
+  },
+  "weather" : {
+    "hoursSunshine" : 3715.0,
+    "rainfall" : 9.69,
+    "snowfall" : 7.0,
+    "averageTempHigh" : 77.5,
+    "averageTempLow" : 51.8,
+    "daysRain" : -1.0,
+    "averageTempMid" : 64.65
+  }
+}, {
+  "cityName" : "Detroit",
+  "stateName" : "MI",
+  "latitude" : 42.383,
+  "longitude" : -83.1022,
+  "emotions" : {
+    "contempt" : 0.006051499,
+    "surprise" : 0.0037962282,
+    "happiness" : 0.47302693,
+    "neutral" : 0.4849057,
+    "sadness" : 0.019494116,
+    "disgust" : 0.0013313689,
+    "anger" : 0.0112270415,
+    "fear" : 1.6706566E-4
+  },
+  "weather" : {
+    "hoursSunshine" : 2375.0,
+    "rainfall" : 30.97,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 56.7,
+    "averageTempLow" : 40.7,
+    "daysRain" : 133.0,
+    "averageTempMid" : 48.7
+  }
+}, {
+  "cityName" : "Washington",
+  "stateName" : "DC",
+  "latitude" : 38.9041,
+  "longitude" : -77.0171,
+  "emotions" : {
+    "contempt" : 0.0105719725,
+    "surprise" : 0.018862186,
+    "happiness" : 0.2877875,
+    "neutral" : 0.6129525,
+    "sadness" : 0.03988248,
+    "disgust" : 0.006237714,
+    "anger" : 0.021851478,
+    "fear" : 0.0018542126
+  },
+  "weather" : {
+    "hoursSunshine" : 1783.0,
+    "rainfall" : 40.78,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 64.8,
+    "averageTempLow" : 46.6,
+    "daysRain" : 115.0,
+    "averageTempMid" : 55.7
+  }
+}, {
+  "cityName" : "Boston",
+  "stateName" : "MA",
+  "latitude" : 42.332,
+  "longitude" : -71.0202,
+  "emotions" : {
+    "contempt" : 0.009369938,
+    "surprise" : 0.04145853,
+    "happiness" : 0.18940839,
+    "neutral" : 0.6420265,
+    "sadness" : 0.044045344,
+    "disgust" : 0.013567107,
+    "anger" : 0.05687828,
+    "fear" : 0.0032459428
+  },
+  "weather" : {
+    "hoursSunshine" : 2633.0,
+    "rainfall" : 43.56,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 58.7,
+    "averageTempLow" : 44.1,
+    "daysRain" : 120.0,
+    "averageTempMid" : 51.4
+  }
+}, {
+  "cityName" : "Memphis",
+  "stateName" : "TN",
+  "latitude" : 35.1035,
+  "longitude" : -89.9785,
+  "emotions" : {
+    "contempt" : 0.0051155933,
+    "surprise" : 0.043064713,
+    "happiness" : 0.6421037,
+    "neutral" : 0.26503143,
+    "sadness" : 0.015001005,
+    "disgust" : 0.0063053803,
+    "anger" : 0.021011084,
+    "fear" : 0.0023671251
+  },
+  "weather" : {
+    "hoursSunshine" : 2857.0,
+    "rainfall" : 53.67,
+    "snowfall" : 3.0,
+    "averageTempHigh" : 72.4,
+    "averageTempLow" : 63.0,
+    "daysRain" : -1.0,
+    "averageTempMid" : 53.6
+  }
+}, {
+  "cityName" : "Nashville",
+  "stateName" : "TN",
+  "latitude" : 36.1718,
+  "longitude" : -86.785,
+  "emotions" : {
+    "contempt" : 0.0028168561,
+    "surprise" : 0.0028554385,
+    "happiness" : 0.71144855,
+    "neutral" : 0.26018104,
+    "sadness" : 0.015856363,
+    "disgust" : 0.0021804099,
+    "anger" : 0.001970095,
+    "fear" : 0.0026911846
+  },
+  "weather" : {
+    "hoursSunshine" : 2634.0,
+    "rainfall" : 47.24,
+    "snowfall" : 7.0,
+    "averageTempHigh" : 69.7,
+    "averageTempLow" : 48.8,
+    "daysRain" : 119.0,
+    "averageTempMid" : 59.25
+  }
+}, {
+  "cityName" : "Portland",
+  "stateName" : "OR",
+  "latitude" : 45.537,
+  "longitude" : -122.65,
+  "emotions" : {
+    "contempt" : 0.017104184,
+    "surprise" : 0.026027394,
+    "happiness" : 0.3723075,
+    "neutral" : 0.5000171,
+    "sadness" : 0.034613155,
+    "disgust" : 0.011864402,
+    "anger" : 0.033715177,
+    "fear" : 0.0043510823
+  },
+  "weather" : {
+    "hoursSunshine" : 1953.0,
+    "rainfall" : 35.98,
+    "snowfall" : 4.0,
+    "averageTempHigh" : 63.3,
+    "averageTempLow" : 45.7,
+    "daysRain" : -1.0,
+    "averageTempMid" : 54.5
+  }
+}, {
+  "cityName" : "Oklahoma City",
+  "stateName" : "OK",
+  "latitude" : 35.4671,
+  "longitude" : -97.5137,
+  "emotions" : {
+    "contempt" : 0.0040982496,
+    "surprise" : 0.009799112,
+    "happiness" : 0.6002337,
+    "neutral" : 0.34257048,
+    "sadness" : 0.027073072,
+    "disgust" : 0.0023114649,
+    "anger" : 0.007208656,
+    "fear" : 0.00670526
+  },
+  "weather" : {
+    "hoursSunshine" : 3026.0,
+    "rainfall" : 8.0,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 72.2,
+    "averageTempLow" : 50.8,
+    "daysRain" : -1.0,
+    "averageTempMid" : 61.5
+  }
+}, {
+  "cityName" : "Las Vegas",
+  "stateName" : "NV",
+  "latitude" : 36.2277,
+  "longitude" : -115.264,
+  "emotions" : {
+    "contempt" : 0.008018258,
+    "surprise" : 0.019498235,
+    "happiness" : 0.3899164,
+    "neutral" : 0.523137,
+    "sadness" : 0.028618675,
+    "disgust" : 0.008468041,
+    "anger" : 0.020550536,
+    "fear" : 0.0017928747
+  },
+  "weather" : {
+    "hoursSunshine" : 3817.0,
+    "rainfall" : 4.17,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 80.0,
+    "averageTempLow" : 58.6,
+    "daysRain" : 21.0,
+    "averageTempMid" : 69.3
+  }
+}, {
+  "cityName" : "Baltimore",
+  "stateName" : "MD",
+  "latitude" : 39.3002,
+  "longitude" : -76.6105,
+  "emotions" : {
+    "contempt" : 0.022815527,
+    "surprise" : 0.00859913,
+    "happiness" : 0.34351403,
+    "neutral" : 0.55622846,
+    "sadness" : 0.03271747,
+    "disgust" : 0.007805503,
+    "anger" : 0.02440638,
+    "fear" : 0.0039134333
+  },
+  "weather" : {
+    "hoursSunshine" : 2579.0,
+    "rainfall" : 40.72,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 66.3,
+    "averageTempLow" : 50.6,
+    "daysRain" : 111.0,
+    "averageTempMid" : 58.45
+  }
+}, {
+  "cityName" : "Louisville",
+  "stateName" : "KY",
+  "latitude" : 38.1781,
+  "longitude" : -85.6667,
+  "emotions" : {
+    "contempt" : 0.007889362,
+    "surprise" : 0.033071272,
+    "happiness" : 0.57275635,
+    "neutral" : 0.32239023,
+    "sadness" : 0.020495899,
+    "disgust" : 0.013090717,
+    "anger" : 0.022304013,
+    "fear" : 0.008002258
+  },
+  "weather" : {
+    "hoursSunshine" : 2577.0,
+    "rainfall" : 44.89,
+    "snowfall" : 13.0,
+    "averageTempHigh" : 67.8,
+    "averageTempLow" : 48.6,
+    "daysRain" : -1.0,
+    "averageTempMid" : 58.2
+  }
+}, {
+  "cityName" : "Milwaukee",
+  "stateName" : "WI",
+  "latitude" : 43.0633,
+  "longitude" : -87.9667,
+  "emotions" : {
+    "contempt" : 0.019111827,
+    "surprise" : 0.06300772,
+    "happiness" : 0.3478413,
+    "neutral" : 0.43818986,
+    "sadness" : 0.02839725,
+    "disgust" : 0.023038672,
+    "anger" : 0.071272746,
+    "fear" : 0.009140645
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 34.49,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 55.4,
+    "averageTempLow" : 40.1,
+    "daysRain" : 121.0,
+    "averageTempMid" : 47.75
+  }
+}, {
+  "cityName" : "Albuquerque",
+  "stateName" : "NM",
+  "latitude" : 35.1056,
+  "longitude" : -106.6474,
+  "emotions" : {
+    "contempt" : 0.0061842925,
+    "surprise" : 0.020118505,
+    "happiness" : 0.56597507,
+    "neutral" : 0.37013036,
+    "sadness" : 0.013612664,
+    "disgust" : 0.008377292,
+    "anger" : 0.011943035,
+    "fear" : 0.0036586926
+  },
+  "weather" : {
+    "hoursSunshine" : 3460.0,
+    "rainfall" : 9.39,
+    "snowfall" : 10.0,
+    "averageTempHigh" : 68.8,
+    "averageTempLow" : 45.4,
+    "daysRain" : -1.0,
+    "averageTempMid" : 57.1
+  }
+}, {
+  "cityName" : "Tucson",
+  "stateName" : "AZ",
+  "latitude" : 32.1543,
+  "longitude" : -110.8711,
+  "emotions" : {
+    "contempt" : 0.007842916,
+    "surprise" : 0.01287817,
+    "happiness" : 0.3410934,
+    "neutral" : 0.57461244,
+    "sadness" : 0.042927947,
+    "disgust" : 0.0039781844,
+    "anger" : 0.012665828,
+    "fear" : 0.004001106
+  },
+  "weather" : {
+    "hoursSunshine" : 3852.0,
+    "rainfall" : 11.92,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 83.7,
+    "averageTempLow" : 58.1,
+    "daysRain" : -1.0,
+    "averageTempMid" : 70.9
+  }
+}, {
+  "cityName" : "Fresno",
+  "stateName" : "CA",
+  "latitude" : 36.7827,
+  "longitude" : -119.7945,
+  "emotions" : {
+    "contempt" : 0.0075289686,
+    "surprise" : 0.005955749,
+    "happiness" : 0.28052244,
+    "neutral" : 0.64994645,
+    "sadness" : 0.045518592,
+    "disgust" : 0.006008684,
+    "anger" : 0.0030719559,
+    "fear" : 0.0014470968
+  },
+  "weather" : {
+    "hoursSunshine" : 3708.0,
+    "rainfall" : 12.83,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 76.9,
+    "averageTempLow" : 51.3,
+    "daysRain" : -1.0,
+    "averageTempMid" : 64.1
+  }
+}, {
+  "cityName" : "Sacramento",
+  "stateName" : "CA",
+  "latitude" : 38.5666,
+  "longitude" : -121.4686,
+  "emotions" : {
+    "contempt" : 0.0069153965,
+    "surprise" : 0.01885989,
+    "happiness" : 0.5416355,
+    "neutral" : 0.38127556,
+    "sadness" : 0.014366329,
+    "disgust" : 0.006214789,
+    "anger" : 0.026774254,
+    "fear" : 0.003958302
+  },
+  "weather" : {
+    "hoursSunshine" : 3470.0,
+    "rainfall" : 18.51,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 73.6,
+    "averageTempLow" : 48.3,
+    "daysRain" : -1.0,
+    "averageTempMid" : 60.95
+  }
+}, {
+  "cityName" : "Kansas City",
+  "stateName" : "MO",
+  "latitude" : 39.1252,
+  "longitude" : -94.5511,
+  "emotions" : {
+    "contempt" : 0.0028918467,
+    "surprise" : 0.0045419014,
+    "happiness" : 0.16621177,
+    "neutral" : 0.80237895,
+    "sadness" : 0.020785289,
+    "disgust" : 0.0010778806,
+    "anger" : 0.0018453235,
+    "fear" : 2.67048E-4
+  },
+  "weather" : {
+    "hoursSunshine" : 2839.0,
+    "rainfall" : 39.06,
+    "snowfall" : 12.0,
+    "averageTempHigh" : 66.0,
+    "averageTempLow" : 47.4,
+    "daysRain" : -1.0,
+    "averageTempMid" : 56.7
+  }
+}, {
+  "cityName" : "Long Beach",
+  "stateName" : "CA",
+  "latitude" : 33.8091,
+  "longitude" : -118.1553,
+  "emotions" : {
+    "contempt" : 0.008156825,
+    "surprise" : 0.022973219,
+    "happiness" : 0.50917304,
+    "neutral" : 0.42335695,
+    "sadness" : 0.012450322,
+    "disgust" : 0.0036820304,
+    "anger" : 0.017812941,
+    "fear" : 0.0023947468
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 12.25,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 74.2,
+    "averageTempLow" : 55.4,
+    "daysRain" : -1.0,
+    "averageTempMid" : 64.8
+  }
+}, {
+  "cityName" : "Mesa",
+  "stateName" : "AZ",
+  "latitude" : 33.4019,
+  "longitude" : -111.7174,
+  "emotions" : {
+    "contempt" : 0.007277176,
+    "surprise" : 0.0059875525,
+    "happiness" : 0.48636734,
+    "neutral" : 0.437884,
+    "sadness" : 0.043105632,
+    "disgust" : 0.0072762687,
+    "anger" : 0.010576222,
+    "fear" : 0.0015257761
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 9.29,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 86.4,
+    "averageTempLow" : 57.5,
+    "daysRain" : -1.0,
+    "averageTempMid" : 71.95
+  }
+}, {
+  "cityName" : "Atlanta",
+  "stateName" : "GA",
+  "latitude" : 33.7629,
+  "longitude" : -84.4227,
+  "emotions" : {
+    "contempt" : 0.011942586,
+    "surprise" : 0.016731538,
+    "happiness" : 0.4442648,
+    "neutral" : 0.46803772,
+    "sadness" : 0.019132277,
+    "disgust" : 0.0064900983,
+    "anger" : 0.025623279,
+    "fear" : 0.0077776904
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 49.74,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 71.9,
+    "averageTempLow" : 53.2,
+    "daysRain" : -1.0,
+    "averageTempMid" : 62.55
+  }
+}, {
+  "cityName" : "Colorado Springs",
+  "stateName" : "CO",
+  "latitude" : 38.8673,
+  "longitude" : -104.7607,
+  "emotions" : {
+    "contempt" : 0.008287268,
+    "surprise" : 0.041871347,
+    "happiness" : 0.5482416,
+    "neutral" : 0.3589056,
+    "sadness" : 0.015756508,
+    "disgust" : 0.009384522,
+    "anger" : 0.016768247,
+    "fear" : 7.8490446E-4
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 16.56,
+    "snowfall" : 39.0,
+    "averageTempHigh" : 62.1,
+    "averageTempLow" : 35.8,
+    "daysRain" : -1.0,
+    "averageTempMid" : 48.95
+  }
+}, {
+  "cityName" : "Virginia Beach",
+  "stateName" : "VA",
+  "latitude" : 36.7793,
+  "longitude" : -76.024,
+  "emotions" : {
+    "contempt" : 0.01107146,
+    "surprise" : 0.048874993,
+    "happiness" : 0.3037382,
+    "neutral" : 0.5464453,
+    "sadness" : 0.031950697,
+    "disgust" : 0.012335983,
+    "anger" : 0.040688615,
+    "fear" : 0.0048947544
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : -1.0,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 68.9,
+    "averageTempLow" : 52.3,
+    "daysRain" : -1.0,
+    "averageTempMid" : 60.6
+  }
+}, {
+  "cityName" : "Raleigh",
+  "stateName" : "NC",
+  "latitude" : 35.8302,
+  "longitude" : -78.6414,
+  "emotions" : {
+    "contempt" : 0.007847918,
+    "surprise" : 0.019227318,
+    "happiness" : 0.49938416,
+    "neutral" : 0.44307703,
+    "sadness" : 0.0128257135,
+    "disgust" : 0.004213436,
+    "anger" : 0.01227962,
+    "fear" : 0.0011448514
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 46.58,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 71.3,
+    "averageTempLow" : 50.3,
+    "daysRain" : -1.0,
+    "averageTempMid" : 60.8
+  }
+}, {
+  "cityName" : "Omaha",
+  "stateName" : "NE",
+  "latitude" : 41.2647,
+  "longitude" : -96.0419,
+  "emotions" : {
+    "contempt" : 0.010169383,
+    "surprise" : 0.010338871,
+    "happiness" : 0.59544486,
+    "neutral" : 0.35396907,
+    "sadness" : 0.012570159,
+    "disgust" : 0.003927822,
+    "anger" : 0.012758158,
+    "fear" : 8.216798E-4
+  },
+  "weather" : {
+    "hoursSunshine" : 2724.0,
+    "rainfall" : 30.25,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 61.5,
+    "averageTempLow" : 39.8,
+    "daysRain" : 98.0,
+    "averageTempMid" : 50.65
+  }
+}, {
+  "cityName" : "Miami",
+  "stateName" : "FL",
+  "latitude" : 25.7752,
+  "longitude" : -80.2086,
+  "emotions" : {
+    "contempt" : 0.011463177,
+    "surprise" : 0.032253627,
+    "happiness" : 0.4260101,
+    "neutral" : 0.47296688,
+    "sadness" : 0.028765572,
+    "disgust" : 0.008600114,
+    "anger" : 0.017849604,
+    "fear" : 0.0020909747
+  },
+  "weather" : {
+    "hoursSunshine" : 2903.0,
+    "rainfall" : 61.93,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 84.2,
+    "averageTempLow" : 69.9,
+    "daysRain" : 128.0,
+    "averageTempMid" : 77.05
+  }
+}, {
+  "cityName" : "Oakland",
+  "stateName" : "CA",
+  "latitude" : 37.7699,
+  "longitude" : -122.2256,
+  "emotions" : {
+    "contempt" : 0.008342765,
+    "surprise" : 0.023332957,
+    "happiness" : 0.42614856,
+    "neutral" : 0.4858676,
+    "sadness" : 0.03188809,
+    "disgust" : 0.005265442,
+    "anger" : 0.013384397,
+    "fear" : 0.00577018
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 23.99,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 67.0,
+    "averageTempLow" : 51.4,
+    "daysRain" : -1.0,
+    "averageTempMid" : 59.2
+  }
+}, {
+  "cityName" : "Minneapolis",
+  "stateName" : "MN",
+  "latitude" : 44.9633,
+  "longitude" : -93.2683,
+  "emotions" : {
+    "contempt" : 0.007041517,
+    "surprise" : 0.028442482,
+    "happiness" : 0.22574705,
+    "neutral" : 0.6942579,
+    "sadness" : 0.02168867,
+    "disgust" : 0.00323386,
+    "anger" : 0.018069377,
+    "fear" : 0.0015191195
+  },
+  "weather" : {
+    "hoursSunshine" : 2607.0,
+    "rainfall" : 30.64,
+    "snowfall" : 55.0,
+    "averageTempHigh" : 55.1,
+    "averageTempLow" : 37.2,
+    "daysRain" : 112.0,
+    "averageTempMid" : 46.15
+  }
+}, {
+  "cityName" : "Tulsa",
+  "stateName" : "OK",
+  "latitude" : 36.1279,
+  "longitude" : -95.9023,
+  "emotions" : {
+    "contempt" : 0.0071457764,
+    "surprise" : 0.014381282,
+    "happiness" : 0.59404474,
+    "neutral" : 0.34802482,
+    "sadness" : 0.011104344,
+    "disgust" : 0.0061693075,
+    "anger" : 0.01871692,
+    "fear" : 4.1285035E-4
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 40.91,
+    "snowfall" : 10.0,
+    "averageTempHigh" : 71.2,
+    "averageTempLow" : 50.2,
+    "daysRain" : -1.0,
+    "averageTempMid" : 60.7
+  }
+}, {
+  "cityName" : "Wichita",
+  "stateName" : "KS",
+  "latitude" : 37.6907,
+  "longitude" : -97.3427,
+  "emotions" : {
+    "contempt" : 0.020185545,
+    "surprise" : 0.0350343,
+    "happiness" : 0.23388827,
+    "neutral" : 0.6610924,
+    "sadness" : 0.027729033,
+    "disgust" : 0.007934208,
+    "anger" : 0.013934398,
+    "fear" : 2.0195085E-4
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 34.33,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 67.6,
+    "averageTempLow" : 45.7,
+    "daysRain" : -1.0,
+    "averageTempMid" : 56.65
+  }
+}, {
+  "cityName" : "New Orleans",
+  "stateName" : "LA",
+  "latitude" : 30.0686,
+  "longitude" : -89.939,
+  "emotions" : {
+    "contempt" : 0.012853694,
+    "surprise" : 0.038635448,
+    "happiness" : 0.44756368,
+    "neutral" : 0.4332012,
+    "sadness" : 0.03257509,
+    "disgust" : 0.0054591713,
+    "anger" : 0.023635538,
+    "fear" : 0.006076098
+  },
+  "weather" : {
+    "hoursSunshine" : 2644.0,
+    "rainfall" : 62.45,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 78.0,
+    "averageTempLow" : 61.61,
+    "daysRain" : 108.0,
+    "averageTempMid" : 69.55
+  }
+}, {
+  "cityName" : "Arlington",
+  "stateName" : "TX",
+  "latitude" : 32.7007,
+  "longitude" : -97.1247,
+  "emotions" : {
+    "contempt" : 0.009268594,
+    "surprise" : 0.020480594,
+    "happiness" : 0.46680123,
+    "neutral" : 0.4638511,
+    "sadness" : 0.018193088,
+    "disgust" : 0.006145226,
+    "anger" : 0.01085758,
+    "fear" : 0.004402558
+  },
+  "weather" : {
+    "hoursSunshine" : -1.0,
+    "rainfall" : 38.36,
+    "snowfall" : -1.0,
+    "averageTempHigh" : 77.1,
+    "averageTempLow" : 55.1,
+    "daysRain" : -1.0,
+    "averageTempMid" : 66.1
+  }
+} ]
